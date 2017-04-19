@@ -1,4 +1,7 @@
-# test coverage for  [chance (v1.0.6)](http://chancejs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-chance.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chance) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chance.svg)](https://travis-ci.org/npmtest/node-npmtest-chance)
+# npmtest-chance
+
+#### test coverage for  [chance (v1.0.6)](http://chancejs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-chance.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chance) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chance.svg)](https://travis-ci.org/npmtest/node-npmtest-chance)
+
 #### Chance - Utility library to generate anything random
 
 [![NPM](https://nodei.co/npm/chance.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/chance)
