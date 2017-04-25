@@ -1,6 +1,6 @@
 # npmtest-chance
 
-#### test coverage for  [chance (v1.0.6)](http://chancejs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-chance.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chance) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chance.svg)](https://travis-ci.org/npmtest/node-npmtest-chance)
+#### basic test coverage for  [chance (v1.0.6)](http://chancejs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-chance.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chance) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chance.svg)](https://travis-ci.org/npmtest/node-npmtest-chance)
 
 #### Chance - Utility library to generate anything random
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-chance/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-chance/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-chance/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-chance/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-chance/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-chance/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-chance/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-chance/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-chance/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-chance/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-chance/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-chance/build/coverage.html/index.html)
 
@@ -100,7 +100,8 @@
             "test"
         ]
     },
-    "version": "1.0.6"
+    "version": "1.0.6",
+    "bin": {}
 }
 ```
 
